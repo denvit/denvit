@@ -22,9 +22,3 @@
 <a href="https://stackoverflow.com/users/940106" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="940106" height="30" width="40" /></a>
 <a href="https://medium.com/@denisveg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@denisveg" height="30" width="40" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=denvit&show_icons=true&locale=en&layout=compact" alt="denvit" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=denvit&show_icons=true&locale=en" alt="denvit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=denvit&" alt="denvit" /></p>

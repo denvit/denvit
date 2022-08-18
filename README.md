@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📝 I regularly write articles on [https://denisveg.dev/](https://denisveg.dev/)
+- 📝 I occasionally write articles on [https://denisveg.dev/](https://denisveg.dev/)
 
 - 💬 Ask me about **PHP, Magento 2, Laravel, AlpineJS**
 

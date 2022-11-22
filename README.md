@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denvit&label=Profile%20views&color=0e75b6&style=flat" alt="denvit" /> </p>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **React**
 
 - 📝 I occasionally write articles on [https://denisveg.dev/](https://denisveg.dev/)
 

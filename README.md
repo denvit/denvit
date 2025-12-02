@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Denis</h1>
-<h3 align="center">PHP developer from Slovenia. I'm working mainly as Magento 2 fullstack developer and using Laravel for side projects.</h3>
+<h3 align="center">PHP developer from Slovenia. These days I'm working mostly as a Laravel & ReactJS/NextJS fullstack dev, in the past I was working as an Adobe Commerce Cloud/Magento 2 developer on enterprise projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=denvit&label=Profile%20views&color=0e75b6&style=flat" alt="denvit" /> </p>
 
